@@ -7,7 +7,7 @@ public class Main {
 
     static final String URL = "jdbc:mysql://localhost:3306/fuel_station";
     static final String USER = "root";
-    static final String PASS = "parmi@2004";   // change if needed
+    static final String PASS = "sandeepnaik013";   // change if needed
 
     public static void main(String[] args) {
 
@@ -189,3 +189,4 @@ public class Main {
         }
     }
 }
+
